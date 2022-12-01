@@ -1,0 +1,5 @@
+﻿  corrector.cpp
+C:\Users\carlo\source\repos\ConsoleApplication3\ConsoleApplication3\corrector.cpp(50,49): warning C4244: '=': conversión de 'wint_t' a 'char'; posible pérdida de datos
+C:\Users\carlo\source\repos\ConsoleApplication3\ConsoleApplication3\corrector.cpp(388,37): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\carlo\source\repos\ConsoleApplication3\ConsoleApplication3\corrector.cpp(442,27): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ConsoleApplication3.vcxproj -> C:\Users\carlo\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
