@@ -1,4 +1,38 @@
+/*#include "corrector.h"
+#include <stdio.h>
+#include <string.h>
 
+void main(void)
+
+{
+	FILE* fp;
+
+	char sZNom[256];
+	char sZCAD[300];
+	int conta;
+	int frec;
+	printf("Introdusca la ruta o el nombre del archivo: ");
+	scanf_s("%s", sZNom, 256);
+	fopen_s(&fp, sZNom, "r");
+	frec = 0;
+
+	conta = 0;
+
+	//while (fp == NULL)
+	//{
+		if (fp != NULL)
+		{
+			
+			fscanf_s(fp, "s", sZCAD, 300);
+			printf("%s", sZCAD);
+			fclose(fp);
+		}
+
+		else
+			printf("\nFUE IMPOSIBLE ABRIR EL ARCHIVO \nVerificar la RUTA o NOMBRE del archivo\n");
+
+	//}
+}*/
 #include <stdio.h>
 #include <string.h>
 #include "corrector.h"
@@ -65,3 +99,59 @@ void main(void)	//Diccionario(char* szNombre, char szPalabras[][TAMTOKEN], int i
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+#define TAMTOKEN	50						//tamaño maximo de cada palabra
+#define NUMPALABRAS 70000					//Numero maximo de palabras
+
+
+//Funciones publicas para el proyecto
+void 	Diccionario(
+	char *szNombre, 	 					//Nombre del archivo, desde donde se lee el diccionario
+	char szPalabras[][TAMTOKEN],  			//Lista de palabras del diccionario
+	int iEstadisticas[], 					//Numero de veces que aparece la palabra en el archivo
+	int &iNumElementos);					//Numero de elementos en el diccionario
+
+
+*/
+
+/*
+void	ListaCandidatas		(
+	char	szPalabrasSugeridas[][TAMTOKEN],	//Lista de palabras clonadas
+	int		iNumSugeridas,						//Lista de palabras clonadas
+	char	szPalabras[][TAMTOKEN],				//Lista de palabras del diccionario
+	int		iEstadisticas[],					//Lista de las frecuencias de las palabras
+	int		iNumElementos,						//Numero de elementos en el diccionario
+	char	szListaFinal[][TAMTOKEN],			//Lista final de palabras a sugerir
+	int		iPeso[],							//Peso de las palabras en la lista final
+	int &	iNumLista)
+*/
+//void main(void)
+//{
+
+
+
+
