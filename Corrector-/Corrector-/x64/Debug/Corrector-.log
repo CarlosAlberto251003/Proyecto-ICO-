@@ -1,0 +1,4 @@
+﻿  Corrector-.cpp
+C:\Users\carlo\source\repos\Corrector-\Corrector-\Corrector-.cpp(41,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\carlo\source\repos\Corrector-\Corrector-\Corrector-.cpp(42,6): warning C4101: 'contador': variable local sin referencia
+  Corrector-.vcxproj -> C:\Users\carlo\source\repos\Corrector-\x64\Debug\Corrector-.exe
