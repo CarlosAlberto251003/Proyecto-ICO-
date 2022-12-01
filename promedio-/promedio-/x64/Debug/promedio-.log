@@ -1,0 +1,6 @@
+﻿  promedio-.cpp
+C:\Users\carlo\source\repos\promedio-\promedio-\promedio-.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\carlo\source\repos\promedio-\promedio-\promedio-.cpp(18,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\carlo\source\repos\promedio-\promedio-\promedio-.cpp(22,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\carlo\source\repos\promedio-\promedio-\promedio-.cpp(6,26): warning C4101: 'conta': variable local sin referencia
+  promedio-.vcxproj -> C:\Users\carlo\source\repos\promedio-\x64\Debug\promedio-.exe
